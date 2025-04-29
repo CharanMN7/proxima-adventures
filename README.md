@@ -1,6 +1,14 @@
 # Proxima Centauri b: Exoplanet Explorer
 
-**Hackathon Submission**
+**How to Setup**:
+
+- Make sure you have the latest version of MCreator installed.
+- Download and extract the zip into a folder.
+- Open the extracted folder in your file expolerer/finder.
+- Open the MCreator app.
+- Drag and Drop the "proxima_adventure.mcreator"
+ file from your file explorer/finder into the MCreator app.
+- Once the setup is complete, click run to test/play on your device!
 
 **Mod Concept:** Ever wanted to walk on an alien world orbiting the nearest star to our Sun? **Proxima Centauri b: Exoplanet Explorer** brings a scientifically-inspired, *hypothetical non-tidally locked* version of this fascinating exoplanet into Minecraft! This mod focuses on creating an immersive experience where players can explore a world shaped by a red dwarf star and learn about its unique environmental characteristics directly through gameplay.
 
