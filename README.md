@@ -32,10 +32,6 @@ This mod takes inspiration from scientific papers and climate simulations of Pro
 *   **Mod Loader:** NeoForge
 *   **Key Implementation:** Custom dimension, biome, blocks, sky rendering, and a procedure-driven system using `Player Tick Update` and `Player Persistent Variables` to manage the timed delivery of educational chat messages.
 
-**Hackathon Relevance:**
-
-This project merges creativity, space science education, and game development. It provides an interactive way for players to learn basic exoplanetary science concepts while exploring a visually distinct and engaging new world within Minecraft. It showcases the use of MCreator's procedural system to create dynamic, informative gameplay elements.
-
 **Future Ideas:**
 
 *   Adding spectacular auroral displays driven by intense stellar wind.
