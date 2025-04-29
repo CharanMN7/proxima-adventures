@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "proxima_adventure:block/proximan_soil_texture",
+    "up": "proxima_adventure:block/proximan_soil_texture",
+    "north": "proxima_adventure:block/proximan_soil_texture",
+    "east": "proxima_adventure:block/proximan_soil_texture",
+    "south": "proxima_adventure:block/proximan_soil_texture",
+    "west": "proxima_adventure:block/proximan_soil_texture",
+    "particle": "proxima_adventure:block/proximan_soil_texture"
+  },
+  "render_type": "solid"
+}

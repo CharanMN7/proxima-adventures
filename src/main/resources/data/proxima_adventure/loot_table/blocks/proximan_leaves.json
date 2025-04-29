@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "proxima_adventure:blocks/proximan_leaves",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "proxima_adventure:proximan_leaves"
+        }
+      ]
+    }
+  ]
+}

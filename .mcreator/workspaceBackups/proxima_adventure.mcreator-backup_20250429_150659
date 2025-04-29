@@ -1,0 +1,239 @@
+{
+  "mod_elements": [
+    {
+      "name": "ProximanSoil",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proximan_soil",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/proxima_adventure/loot_table/blocks/proximan_soil.json",
+          "src/main/resources/assets/proxima_adventure/items/proximan_soil.json",
+          "src/main/resources/assets/proxima_adventure/models/block/proximan_soil.json",
+          "src/main/java/net/mcreator/proximaadventure/block/ProximanSoilBlock.java",
+          "src/main/resources/assets/proxima_adventure/models/item/proximan_soil.json",
+          "src/main/resources/assets/proxima_adventure/blockstates/proximan_soil.json"
+        ]
+      }
+    },
+    {
+      "name": "ProximanStone",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proximan_stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/proxima_adventure/models/block/proximan_stone.json",
+          "src/main/java/net/mcreator/proximaadventure/block/ProximanStoneBlock.java",
+          "src/main/resources/assets/proxima_adventure/models/item/proximan_stone.json",
+          "src/main/resources/assets/proxima_adventure/items/proximan_stone.json",
+          "src/main/resources/assets/proxima_adventure/blockstates/proximan_stone.json",
+          "src/main/resources/data/proxima_adventure/loot_table/blocks/proximan_stone.json"
+        ]
+      }
+    },
+    {
+      "name": "ProximanSeabedGravel",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proximan_seabed_gravel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/proxima_adventure/blockstates/proximan_seabed_gravel.json",
+          "src/main/resources/data/proxima_adventure/loot_table/blocks/proximan_seabed_gravel.json",
+          "src/main/resources/assets/proxima_adventure/models/item/proximan_seabed_gravel.json",
+          "src/main/resources/assets/proxima_adventure/items/proximan_seabed_gravel.json",
+          "src/main/java/net/mcreator/proximaadventure/block/ProximanSeabedGravelBlock.java",
+          "src/main/resources/assets/proxima_adventure/models/block/proximan_seabed_gravel.json"
+        ]
+      }
+    },
+    {
+      "name": "PlanetProximaB",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "planet_proxima_b",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/proxima_adventure/worldgen/placed_feature/planet_proxima_b_tree.json",
+          "src/main/resources/data/proxima_adventure/worldgen/biome/planet_proxima_b.json",
+          "src/main/resources/data/proxima_adventure/worldgen/configured_feature/planet_proxima_b_tree.json"
+        ]
+      }
+    },
+    {
+      "name": "ProximaLog",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proxima_log",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/proxima_adventure/loot_table/blocks/proxima_log.json",
+          "src/main/java/net/mcreator/proximaadventure/block/ProximaLogBlock.java",
+          "src/main/resources/assets/proxima_adventure/blockstates/proxima_log.json",
+          "src/main/resources/assets/proxima_adventure/models/block/proxima_log.json",
+          "src/main/resources/assets/proxima_adventure/models/item/proxima_log.json",
+          "src/main/resources/assets/proxima_adventure/items/proxima_log.json"
+        ]
+      }
+    },
+    {
+      "name": "ProximanLeaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proximan_leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/proxima_adventure/blockstates/proximan_leaves.json",
+          "src/main/resources/data/proxima_adventure/loot_table/blocks/proximan_leaves.json",
+          "src/main/resources/assets/proxima_adventure/items/proximan_leaves.json",
+          "src/main/resources/assets/proxima_adventure/models/block/proximan_leaves.json",
+          "src/main/resources/assets/proxima_adventure/models/item/proximan_leaves.json",
+          "src/main/java/net/mcreator/proximaadventure/block/ProximanLeavesBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "ProximaBDimension",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "proxima_b_dimension",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/proximaadventure/world/teleporter/ProximaBDimensionTeleporter.java",
+          "src/main/java/net/mcreator/proximaadventure/item/ProximaBDimensionItem.java",
+          "src/main/resources/assets/proxima_adventure/models/block/proxima_b_dimension_portal_ns.json",
+          "src/main/resources/assets/proxima_adventure/models/item/proxima_b_dimension.json",
+          "src/main/java/net/mcreator/proximaadventure/world/dimension/ProximaBDimensionDimension.java",
+          "src/main/java/net/mcreator/proximaadventure/block/ProximaBDimensionPortalBlock.java",
+          "src/main/resources/data/proxima_adventure/dimension_type/proxima_b_dimension.json",
+          "src/main/resources/data/proxima_adventure/dimension/proxima_b_dimension.json",
+          "src/main/resources/assets/proxima_adventure/models/block/proxima_b_dimension_portal_ew.json",
+          "src/main/java/net/mcreator/proximaadventure/world/teleporter/ProximaBDimensionPortalShape.java",
+          "src/main/resources/assets/proxima_adventure/items/proxima_b_dimension.json",
+          "src/main/resources/assets/proxima_adventure/blockstates/proxima_b_dimension_portal.json"
+        ]
+      }
+    },
+    {
+      "name": "ShowBiomeTips",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "show_biome_tips",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/proximaadventure/procedures/ShowBiomeTipsProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "tip_cooldown",
+      "type": "number",
+      "scope": "world",
+      "value": "0"
+    },
+    {
+      "name": "lesson_1",
+      "type": "string",
+      "scope": "world",
+      "value": "\"The sky looks reddish-orange because the star of this planet, Proxima Centauri, is a red dwarf star which is many times smaller and dimmer than the sun\""
+    },
+    {
+      "name": "lesson_2",
+      "type": "string",
+      "scope": "world",
+      "value": "\"The trees and grass, all of them have darker color of leaves because the light from the star is very dim and most of the light emitted lies in the infrared spectrum. So, in order to capture maximum energy from the light they recieve, they have dark leaves.\""
+    },
+    {
+      "name": "lesson_3",
+      "type": "string",
+      "scope": "world",
+      "value": "\"This planet most likely doesn\u0027t have a moon (although yoou see it here) becuase it is very close to it\u0027s star (roughly 5% of Earth\u0027s distance from the Sun) and there likely isn\u0027t enough material in the planetary disc for a moon to form.\""
+    },
+    {
+      "name": "lesson_4",
+      "type": "string",
+      "scope": "world",
+      "value": "\"Proxima Centauri B is most likely tidally locked because of how close it is to it\u0027s star, which means that it is always showing the same face to it\u0027s star. If this is the case, the planet might not sustain liquid water, an atomsphere, or even a magnetic field, all of which are crucial for life to exist as we know it. However, there is one interesting possibility (while extremely unlikely) that life might exist in the area between the day and night sides of the planet, in case it\u0027s tidally locked/\""
+    },
+    {
+      "name": "lesson_5",
+      "type": "string",
+      "scope": "world",
+      "value": "\"The exact age of the planet is unknow but it is relavtively close to how old earth is. So, there might be complex life that has evolved on the planet if all the ideal conditions are checked and sustained atleast as long as that of earth\u0027s but it is very unlikely and currently no instrument to properly verify this claim. But it\u0027s exciting, isn\u0027t it?\""
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:proxima_tree_log": [
+      "CUSTOM:ProximaLog"
+    ],
+    "BLOCKS:minecraft:proxima_tree_leaves": [
+      "CUSTOM:ProximanLeaves"
+    ],
+    "BLOCKS:minecraft:overworld_carver_replaceables": [
+      "~CUSTOM:ProximanStone",
+      "~CUSTOM:ProximanSoil"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "biome.proxima_adventure.planet_proxima_b": "Planet Proxima B",
+      "item.proxima_adventure.proximan_seabed_gravel": "Proximan Seabed Gravel",
+      "item.proxima_adventure.proxima_log": "Proxima Log",
+      "item.proxima_adventure.proximan_soil": "Proximan Soil",
+      "item.proxima_adventure.proxima_b_dimension": "Proxima Field Projector",
+      "item.proxima_adventure.proximan_stone": "Proximan Stone",
+      "item.proxima_adventure.proximan_leaves": "Proximan Leaves"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "proxima_adventure",
+    "modName": "Proxima Adventure",
+    "version": "1.0.0",
+    "author": "Cherry, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.4",
+    "modElementsPackage": "net.mcreator.proximaadventure"
+  },
+  "mcreatorVersion": 202500113416
+}

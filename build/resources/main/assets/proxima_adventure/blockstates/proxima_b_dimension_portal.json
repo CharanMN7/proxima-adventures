@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "proxima_adventure:block/proxima_b_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "proxima_adventure:block/proxima_b_dimension_portal_ns"
+    }
+  }
+}
